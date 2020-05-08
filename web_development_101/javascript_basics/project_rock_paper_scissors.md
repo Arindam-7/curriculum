@@ -1549,5 +1549,6 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [toddzal's solution](https://github.com/toddzal/odin-project-rock-paper-scissors) - [View in Browser](https://toddzal.github.io/odin-project-rock-paper-scissors/)
 - [Knuttas's solution](https://github.com/Knuttas/rock-paper-scissors)
 - [Dyskgo's Solution](https://github.com/dyskgo/rockpaperscissors) - [View in Browser](https://dyskgo.github.io/rockpaperscissors/)
+- [Arindam's Solution](https://github.com/Arindam-7/RockPaperScissor)
 </details>
 
